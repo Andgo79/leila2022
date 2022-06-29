@@ -1,0 +1,224 @@
+@media (max-width: 425px) {
+    .footer {
+        display: block;
+
+    }
+
+
+    .textrightfooter {
+
+        position: absolute;
+        padding-top: 25px;
+        padding-left: 5%;
+    }
+
+    .textrightfooter-terms {
+
+        margin-top: 10%;
+        margin-left: 16%;
+
+    }
+
+    .textcenterfooter {
+
+        padding-top: 0;
+        padding-left: 27%;
+    }
+
+    .imgcenterfooter {
+        position: absolute;
+        margin-left: 15%;
+        margin-top: 6px;
+        padding-top: 10%;
+
+
+    }
+
+    .picleftfooter {
+        margin-top: 10px;
+        margin-left: 5%;
+    }
+
+    .textleftfooter {
+        margin-top: 10px;
+        margin-left: 15%;
+    }
+
+    .socialfb {
+        margin-top: 5%;
+        padding-left: 28%;
+
+    }
+
+
+
+    .increase> {
+        padding-top: 0;
+        width: 30%;
+
+
+    }
+
+    .img {
+        width: 100%;
+    }
+
+    .header-user {
+        width: 50%;
+
+    }
+
+    .right96-line {
+        background: rgb(224, 223, 223);
+        width: 2px;
+        height: 60px;
+        margin-top: -35%;
+        margin-left: -50%;
+
+    }
+
+    .header-search {
+        width: 90%;
+        margin: auto;
+    }
+
+    .submit {
+        height: 50px;
+        width: 30%;
+        margin-left: -5px;
+        margin-top: 20px;
+        border-radius: 0 25px 25px 0;
+        background-color: #f03c6f;
+        color: white;
+        border: #f03c6f;
+    }
+
+
+    .text3>h2 {
+        margin-left: 0;
+
+        margin-top: -55%;
+
+
+    }
+
+    .text3>p {
+        width: 80%;
+
+
+    }
+
+
+
+    .header-title>h1 {
+        color: white;
+        text-align: center;
+        font-size: 25px;
+        margin-top: 15%;
+        margin-bottom: 10%;
+
+    }
+
+    .header-title {
+        width: 50%;
+        text-align: left;
+        margin-top: 30px;
+        width: 90%;
+
+    }
+
+    .text1>h2 {
+        text-align: left;
+
+        width: 70%;
+    }
+
+    .text1>p {
+        text-align: left;
+        width: 80%;
+
+    }
+
+    .text4>h2 {
+        text-align: left;
+        width: 80%;
+
+    }
+
+    .video-container-title {
+        width: 80%;
+        text-align: left;
+        margin-top: -12%;
+
+    }
+
+    .gray-title {
+        margin-top: -20%;
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    .gray-title>p {
+        margin-top: 10%;
+        text-align: left;
+
+    }
+
+    .increase {
+        padding-top: 0;
+        text-align: left;
+
+    }
+
+    .button-increase {
+        position: relative;
+        background-color: #f03c6f;
+        border: 2px solid #f03c6f;
+        border-radius: 20px;
+        padding: 2px 0 0 0;
+        margin-left: 20px;
+        color: #f03c6f;
+        height: 35px;
+        width: 30%;
+        color: white;
+        text-align: center;
+
+
+    }
+
+    .button {
+        background-color: #f03c6f;
+        border: 2px solid #f03c6f;
+        border-radius: 20px;
+        padding: 2px 0 0 0;
+        margin-top: -5%;
+        color: #f03c6f;
+        height: 25px;
+        width: 35%;
+        color: white;
+        text-align: center;
+        margin-left: 18%;
+        margin-bottom: 15px;
+    }
+
+    .button2 {
+        background-color: #f03c6f;
+        border: 2px solid #f03c6f;
+        border-radius: 20px;
+        padding: 3px 0 0 0;
+        margin-top: 5%;
+        color: #f03c6f;
+        height: 30px;
+        width: 35%;
+        color: white;
+        text-align: center;
+        margin-left: 18%;
+    }
+
+    .text3 {
+        margin-left: 20%;
+
+    }
+
+
+}
